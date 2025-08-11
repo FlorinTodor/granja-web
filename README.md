@@ -34,14 +34,14 @@ Cada práctica ha seguido un flujo de trabajo común:
 5. **Documentación**: capturas, métricas y análisis de resultados
 
 ---
-📊 Conclusiones
-Alta disponibilidad gracias al balanceo y escalabilidad
+## 📊 Conclusiones
+1. **Alta disponibilidad gracias al balanceo y escalabilidad**
 
-Seguridad reforzada en comunicación y perímetro
+2. **Seguridad reforzada en comunicación y perímetro**
 
-Rendimiento estable bajo carga alta
+3. **Rendimiento estable bajo carga alta**
 
-Escenarios reproducibles y fácilmente desplegables
+4. **Escenarios reproducibles y fácilmente desplegables**
 ---
 
 ## 📂 Estructura del repositorio
